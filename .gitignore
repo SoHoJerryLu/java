@@ -32,4 +32,4 @@ temp/
 META-INF/
 .idea/
 *.iml
-DS_Store
+.DS_Store
